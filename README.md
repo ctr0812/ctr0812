@@ -2,7 +2,3 @@
 
 # Hi there 👋
 
-
-
-
-TaeRim Chae
